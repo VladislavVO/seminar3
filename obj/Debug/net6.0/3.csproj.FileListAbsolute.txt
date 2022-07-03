@@ -1,0 +1,15 @@
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\bin\Debug\net6.0\3.exe
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\bin\Debug\net6.0\3.deps.json
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\bin\Debug\net6.0\3.runtimeconfig.json
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\bin\Debug\net6.0\3.dll
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\bin\Debug\net6.0\3.pdb
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\3.dll
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\refint\3.dll
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\3.pdb
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\3.genruntimeconfig.cache
+F:\STORAGE\Обучение\GeekBrains\Пакет Разработчик\1 четверть\4 Знакомство с языками программирования\Семинары\3\obj\Debug\net6.0\ref\3.dll
